@@ -764,7 +764,7 @@ video {
 }
 
 .bg-red-800 {
-  background-color: #9b2c2c;
+  background-color: #EB6656;
 }
 
 .bg-red-900 {
@@ -1136,7 +1136,7 @@ video {
 }
 
 .hover\:bg-red-800:hover {
-  background-color: #9b2c2c;
+  background-color: #eb6656;
 }
 
 .hover\:bg-red-900:hover {
@@ -1960,7 +1960,7 @@ video {
 }
 
 .border-red-800 {
-  border-color: #9b2c2c;
+  border-color: #EB6656;
 }
 
 .border-red-900 {
@@ -10417,7 +10417,7 @@ video {
 }
 
 .hover\:text-red-800:hover {
-  color: #9b2c2c;
+  color: #eb6656;
 }
 
 .hover\:text-red-900:hover {
