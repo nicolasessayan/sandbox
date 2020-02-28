@@ -1,4 +1,7 @@
-.red {
-  border-color: red;
-  border-style: solid;
+#dropdown-mobile {
+  display: none;
+}
+
+#dropdown-mobile.toggle {
+  display: block;
 }
