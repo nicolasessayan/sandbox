@@ -5,3 +5,18 @@
 #dropdown-mobile.toggle {
   display: block;
 }
+
+.background-heroe {
+  background-image: url("/images/background-heroe.jpg");
+}
+
+.polygon-heroe {
+  clip-path: polygon(15% 0, 100% 0%, 100% 100%, 0 100%);
+}
+
+.moving-elt {
+  transform: translatey(0px);
+  animation: float 6s ease-in-out infinite;
+}
+
+
