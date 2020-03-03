@@ -1,3 +1,5 @@
+/*Menu mobile*/
+
 #dropdown-mobile {
   display: none;
 }
@@ -5,6 +7,8 @@
 #dropdown-mobile.toggle {
   display: block;
 }
+
+/*Background*/
 
 .background-heroe {
   background-image: url("./images/background-heroe.jpg");
@@ -43,6 +47,12 @@
 .polygon-footer {
   clip-path: polygon(0 20%, 100% 10%, 100% 100%, 0% 100%);
 }
+
+.bg-datasets {
+  background-color: #62CC41;
+}
+
+/*Animation*/
 
 .moving-elt {
   animation: float 6s ease-in-out infinite;
