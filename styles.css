@@ -19,15 +19,15 @@
 }
 
 .polygon-heroe {
-  clip-path: polygon(15% 0, 100% 0%, 100% 100%, 0 100%);
+  clip-path: polygon(15% 0, 100% 0%, 100% 90%, 0 100%);
 }
 
 .polygon-third {
   clip-path: polygon(
-    0 2vw,
+    0% 2vw,
     100% 0,
     100% 100%,
-    0% calc(100% - 7vw)
+    0% calc(100% - 4vw)
   );
 }
 
@@ -35,13 +35,13 @@
   clip-path: polygon(
     0 0,
     100% 2vw,
-    100% calc(100% - 7vw),
+    100% 100%,
     0 100%
   );
 }
 
 .polygon-footer {
-  clip-path: polygon(0 40%, 100% 10%, 100% 100%, 0% 100%);
+  clip-path: polygon(0 20%, 100% 10%, 100% 100%, 0% 100%);
 }
 
 .moving-elt {
@@ -104,10 +104,3 @@
   }
 }
 
-.tombstone-table {
-  display: flex;
-  flex-wrap: wrap;
-  margin: 0px 13vw;
-  justify-content: center;
-  margin-bottom: 2vh;
-}
