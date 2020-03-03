@@ -7,15 +7,15 @@
 }
 
 .background-heroe {
-  background-image: url("/images/background-heroe.jpg");
+  background-image: url("./images/background-heroe.jpg");
 }
 
 .background-third {
-  background-image: url("/images/background-third.jpg");
+  background-image: url("./images/background-third.jpg");
 }
 
 .background-cta {
-  background-image: url("/images/background-cta.jpg");
+  background-image: url("./images/background-cta.jpg");
 }
 
 .polygon-heroe {
