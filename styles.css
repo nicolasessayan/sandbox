@@ -8,7 +8,7 @@
   display: block;
 }
 
-/*Background*/
+/*Background images*/
 
 .background-heroe {
   background-image: url("./images/background-heroe.jpg");
@@ -48,8 +48,34 @@
   clip-path: polygon(0 20%, 100% 10%, 100% 100%, 0% 100%);
 }
 
+/*Background colors*/
+
+.bg-frameworks {
+  background-color: #AA0000;
+}
+
 .bg-datasets {
   background-color: #62CC41;
+}
+
+.bg-models {
+  background-color: #955696;
+}
+
+.bg-tools {
+  background-color: #F5A428;
+}
+
+.bg-solutions {
+  background-color: #88CCC6;
+}
+
+.bg-dashboards {
+  background-color: #62CC41;
+}
+
+.bg-advanced {
+  background-color: #5E5FF9;
 }
 
 /*Animation*/
