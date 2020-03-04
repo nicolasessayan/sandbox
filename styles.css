@@ -54,7 +54,15 @@
   background-color: #AA0000;
 }
 
+.hover\:bg-frameworks:hover {
+  background-color: #AA0000;
+}
+
 .bg-datasets {
+  background-color: #62CC41;
+}
+
+.hover\:bg-datasets:hover {
   background-color: #62CC41;
 }
 
@@ -62,7 +70,15 @@
   background-color: #955696;
 }
 
+.hover\:bg-models:hover {
+  background-color: #955696;
+}
+
 .bg-tools {
+  background-color: #F5A428;
+}
+
+.hover\:bg-tools:hover {
   background-color: #F5A428;
 }
 
@@ -70,12 +86,100 @@
   background-color: #88CCC6;
 }
 
-.bg-dashboards {
-  background-color: #62CC41;
+.hover\:bg-solutions:hover {
+  background-color: #88CCC6;
 }
 
 .bg-advanced {
   background-color: #5E5FF9;
+}
+
+.hover\:bg-advanced:hover {
+  background-color: #5E5FF9;
+}
+
+.bg-dashboards {
+  background-color: #F87F45;
+}
+
+.hover\:bg-dashboards:hover {
+  background-color: #F87F45;
+}
+
+.bg-papers {
+  background-color: #F77672;
+}
+
+.hover\:bg-papers:hover {
+  background-color: #F77672;
+}
+
+/*Border colors*/
+
+.text-frameworks {
+  color: #AA0000;
+}
+
+.text-datasets {
+  color: #62CC41;
+}
+
+.text-models {
+  color: #955696;
+}
+
+.text-tools {
+  color: #F5A428;
+}
+
+.text-solutions {
+  color: #88CCC6;
+}
+
+.text-advanced {
+  color: #5E5FF9;
+}
+
+.text-dashboards {
+  color: #F87F45;
+}
+
+.text-papers {
+  color: #F77672;
+}
+
+/*Font colors*/
+
+.border-frameworks {
+  border-color: #AA0000;
+}
+
+.border-datasets {
+  border-color: #62CC41;
+}
+
+.border-models {
+  border-color: #955696;
+}
+
+.border-tools {
+  border-color: #F5A428;
+}
+
+.border-solutions {
+  border-color: #88CCC6;
+}
+
+.border-advanced {
+  border-color: #5E5FF9;
+}
+
+.border-dashboards {
+  border-color: #F87F45;
+}
+
+.border-papers {
+  border-color: #F77672;
 }
 
 /*Animation*/
