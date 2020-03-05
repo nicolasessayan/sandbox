@@ -1,10 +1,18 @@
-/*Menu mobile*/
+/*Dropdowns*/
 
 #dropdown-mobile {
   display: none;
 }
 
 #dropdown-mobile.toggle {
+  display: block;
+}
+
+#dropdown-advanced {
+  display: none;
+}
+
+#dropdown-advanced.toggle {
   display: block;
 }
 
